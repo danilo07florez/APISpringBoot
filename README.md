@@ -1,6 +1,6 @@
 # APISpringBoot
 Se crea el proyecto tipo API-Rest para IOT
-
+descargar el archivo PruebaIOT.zi que contiene la solucion completa.
 Justificación :
 1 . Se usa Spring Boot para facilitar la configuración y desarrollo rápido de APIs REST.
 2.  Java V.17, Spring Boot V 3.4.3, Project en Maven
